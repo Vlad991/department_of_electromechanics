@@ -1,0 +1,22 @@
+{
+  "name": "department_of_electromechanics",
+  "version": "1.0.0",
+  "description": "This is the Department of Electromechanics web site poject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad991/department_of_electromechanics.git"
+  },
+  "author": "Vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad991/department_of_electromechanics/issues"
+  },
+  "homepage": "https://github.com/Vlad991/department_of_electromechanics#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
